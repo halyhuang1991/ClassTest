@@ -1,0 +1,8 @@
+D:\C\github\ClassTest\test.Service\bin\Debug\netstandard2.0\test.Service.deps.json
+D:\C\github\ClassTest\test.Service\bin\Debug\netstandard2.0\test.Service.dll
+D:\C\github\ClassTest\test.Service\bin\Debug\netstandard2.0\test.Service.pdb
+D:\C\github\ClassTest\test.Service\obj\Debug\netstandard2.0\test.Service.csproj.CoreCompileInputs.cache
+D:\C\github\ClassTest\test.Service\obj\Debug\netstandard2.0\test.Service.AssemblyInfoInputs.cache
+D:\C\github\ClassTest\test.Service\obj\Debug\netstandard2.0\test.Service.AssemblyInfo.cs
+D:\C\github\ClassTest\test.Service\obj\Debug\netstandard2.0\test.Service.dll
+D:\C\github\ClassTest\test.Service\obj\Debug\netstandard2.0\test.Service.pdb

@@ -1,0 +1,16 @@
+D:\C\github\ClassTest\test\bin\Debug\netcoreapp2.0\test.deps.json
+D:\C\github\ClassTest\test\bin\Debug\netcoreapp2.0\test.runtimeconfig.json
+D:\C\github\ClassTest\test\bin\Debug\netcoreapp2.0\test.runtimeconfig.dev.json
+D:\C\github\ClassTest\test\bin\Debug\netcoreapp2.0\test.dll
+D:\C\github\ClassTest\test\bin\Debug\netcoreapp2.0\test.pdb
+D:\C\github\ClassTest\test\bin\Debug\netcoreapp2.0\test.Common.dll
+D:\C\github\ClassTest\test\bin\Debug\netcoreapp2.0\test.Common.pdb
+D:\C\github\ClassTest\test\obj\Debug\netcoreapp2.0\test.csprojResolveAssemblyReference.cache
+D:\C\github\ClassTest\test\obj\Debug\netcoreapp2.0\test.csproj.CoreCompileInputs.cache
+D:\C\github\ClassTest\test\obj\Debug\netcoreapp2.0\test.AssemblyInfoInputs.cache
+D:\C\github\ClassTest\test\obj\Debug\netcoreapp2.0\test.AssemblyInfo.cs
+D:\C\github\ClassTest\test\obj\Debug\netcoreapp2.0\test.csproj.CopyComplete
+D:\C\github\ClassTest\test\obj\Debug\netcoreapp2.0\test.dll
+D:\C\github\ClassTest\test\obj\Debug\netcoreapp2.0\test.pdb
+D:\C\github\ClassTest\test\bin\Debug\netcoreapp2.0\test.Service.dll
+D:\C\github\ClassTest\test\bin\Debug\netcoreapp2.0\test.Service.pdb

@@ -1,0 +1,16 @@
+d:\C\github\ClassTest\Demo1.Test\obj\Debug\netcoreapp2.0\Demo1.Test.csproj.CoreCompileInputs.cache
+d:\C\github\ClassTest\Demo1.Test\obj\Debug\netcoreapp2.0\Demo1.Test.AssemblyInfoInputs.cache
+d:\C\github\ClassTest\Demo1.Test\obj\Debug\netcoreapp2.0\Demo1.Test.AssemblyInfo.cs
+d:\C\github\ClassTest\Demo1.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+d:\C\github\ClassTest\Demo1.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+d:\C\github\ClassTest\Demo1.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+d:\C\github\ClassTest\Demo1.Test\bin\Debug\netcoreapp2.0\Demo1.Test.deps.json
+d:\C\github\ClassTest\Demo1.Test\bin\Debug\netcoreapp2.0\Demo1.Test.runtimeconfig.json
+d:\C\github\ClassTest\Demo1.Test\bin\Debug\netcoreapp2.0\Demo1.Test.runtimeconfig.dev.json
+d:\C\github\ClassTest\Demo1.Test\bin\Debug\netcoreapp2.0\Demo1.Test.dll
+d:\C\github\ClassTest\Demo1.Test\bin\Debug\netcoreapp2.0\Demo1.Test.pdb
+d:\C\github\ClassTest\Demo1.Test\obj\Debug\netcoreapp2.0\Demo1.Test.dll
+d:\C\github\ClassTest\Demo1.Test\obj\Debug\netcoreapp2.0\Demo1.Test.pdb
+d:\C\github\ClassTest\Demo1.Test\bin\Debug\netcoreapp2.0\test.Common.dll
+d:\C\github\ClassTest\Demo1.Test\bin\Debug\netcoreapp2.0\test.Common.pdb
+d:\C\github\ClassTest\Demo1.Test\obj\Debug\netcoreapp2.0\Demo1.Test.csproj.CopyComplete

@@ -1,0 +1,9 @@
+d:\C\github\ClassTest\test.Common\bin\Debug\netstandard2.0\test.Common.deps.json
+d:\C\github\ClassTest\test.Common\bin\Debug\netstandard2.0\test.Common.dll
+d:\C\github\ClassTest\test.Common\bin\Debug\netstandard2.0\test.Common.pdb
+d:\C\github\ClassTest\test.Common\obj\Debug\netstandard2.0\test.Common.csprojResolveAssemblyReference.cache
+d:\C\github\ClassTest\test.Common\obj\Debug\netstandard2.0\test.Common.csproj.CoreCompileInputs.cache
+d:\C\github\ClassTest\test.Common\obj\Debug\netstandard2.0\test.Common.AssemblyInfoInputs.cache
+d:\C\github\ClassTest\test.Common\obj\Debug\netstandard2.0\test.Common.AssemblyInfo.cs
+d:\C\github\ClassTest\test.Common\obj\Debug\netstandard2.0\test.Common.dll
+d:\C\github\ClassTest\test.Common\obj\Debug\netstandard2.0\test.Common.pdb

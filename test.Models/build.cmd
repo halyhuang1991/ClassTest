@@ -1,0 +1,1 @@
+dotnet pack test.Models -o ..\mypack

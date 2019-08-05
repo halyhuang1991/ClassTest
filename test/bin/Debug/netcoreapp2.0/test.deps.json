@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "206c7ec6fef72f34b8ded1510913e06e59d40b03"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "test/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2",
+          "test.Common": "1.0.0",
+          "test.Service": "1.0.0",
+          "test.Models": "1.0.0"
+        },
+        "runtime": {
+          "test.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "test.Models/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/test.Models.dll": {}
+        }
+      },
+      "test.Common/1.0.0": {
+        "runtime": {
+          "test.Common.dll": {}
+        }
+      },
+      "test.Service/1.0.0": {
+        "runtime": {
+          "test.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mtweBXPWhp1CMQATtBT7ZfMZrbZBTKfjGwz6Y75NwGjx/GztDaUnfw8GK9KZ2T4fDIqKJyDjc9Rxlw5+G2FcVA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    },
+    "test.Models/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mFZ3rfBuYE2JlyGNPivTRGEfDEZcYPPSiVc/H0klZT4qrLJkPz5SUevxHngDnQa4w4W9OhUxo/0wjMI9gu8Ymw==",
+      "path": "test.models/1.0.0",
+      "hashPath": "test.models.1.0.0.nupkg.sha512"
+    },
+    "test.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "test.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

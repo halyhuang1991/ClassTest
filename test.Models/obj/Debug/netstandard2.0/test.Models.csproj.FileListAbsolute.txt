@@ -1,0 +1,8 @@
+d:\C\github\ClassTest\test.Models\bin\Debug\netstandard2.0\test.Models.deps.json
+d:\C\github\ClassTest\test.Models\bin\Debug\netstandard2.0\test.Models.dll
+d:\C\github\ClassTest\test.Models\bin\Debug\netstandard2.0\test.Models.pdb
+d:\C\github\ClassTest\test.Models\obj\Debug\netstandard2.0\test.Models.csproj.CoreCompileInputs.cache
+d:\C\github\ClassTest\test.Models\obj\Debug\netstandard2.0\test.Models.AssemblyInfoInputs.cache
+d:\C\github\ClassTest\test.Models\obj\Debug\netstandard2.0\test.Models.AssemblyInfo.cs
+d:\C\github\ClassTest\test.Models\obj\Debug\netstandard2.0\test.Models.dll
+d:\C\github\ClassTest\test.Models\obj\Debug\netstandard2.0\test.Models.pdb

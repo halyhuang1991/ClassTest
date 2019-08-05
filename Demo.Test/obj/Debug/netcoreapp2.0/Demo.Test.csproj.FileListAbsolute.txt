@@ -1,0 +1,13 @@
+d:\C\github\ClassTest\Demo.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+d:\C\github\ClassTest\Demo.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+d:\C\github\ClassTest\Demo.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+d:\C\github\ClassTest\Demo.Test\bin\Debug\netcoreapp2.0\Demo.Test.deps.json
+d:\C\github\ClassTest\Demo.Test\bin\Debug\netcoreapp2.0\Demo.Test.runtimeconfig.json
+d:\C\github\ClassTest\Demo.Test\bin\Debug\netcoreapp2.0\Demo.Test.runtimeconfig.dev.json
+d:\C\github\ClassTest\Demo.Test\bin\Debug\netcoreapp2.0\Demo.Test.dll
+d:\C\github\ClassTest\Demo.Test\bin\Debug\netcoreapp2.0\Demo.Test.pdb
+d:\C\github\ClassTest\Demo.Test\obj\Debug\netcoreapp2.0\Demo.Test.csproj.CoreCompileInputs.cache
+d:\C\github\ClassTest\Demo.Test\obj\Debug\netcoreapp2.0\Demo.Test.AssemblyInfoInputs.cache
+d:\C\github\ClassTest\Demo.Test\obj\Debug\netcoreapp2.0\Demo.Test.AssemblyInfo.cs
+d:\C\github\ClassTest\Demo.Test\obj\Debug\netcoreapp2.0\Demo.Test.dll
+d:\C\github\ClassTest\Demo.Test\obj\Debug\netcoreapp2.0\Demo.Test.pdb

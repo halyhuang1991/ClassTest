@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\test.Common\test.Common.csproj" />
+    <ProjectReference Include="..\test.Service\test.Service.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <!-- <RestoreSources>$(RestoreSources);..\mypack; https://api.nuget.org/v3</RestoreSources> -->
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="newtonsoft.json" Version="12.0.2" />
+    <PackageReference Include="test.models" Version="1.0.0" />
+    <!-- <PackageReference Include="test.Models" Version="1.0.0"/> -->
+  </ItemGroup>
+</Project>
