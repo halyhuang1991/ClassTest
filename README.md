@@ -1,3 +1,4 @@
+```
 dotnet new console -o test
 dotnet new classlib -o test.Common
 dotnet new classlib -o test.Service
@@ -23,3 +24,4 @@ git add README.md
 git commit -m "first commit"
 git remote add origin git@github.com:halyhuang1991/ClassTest.git
 git push -u origin master
+```
