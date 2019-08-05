@@ -17,7 +17,7 @@ dotnet new mstest -o Demo.Test
 dotnet new xunit -o Demo.Test
 
 
-echo "# ClassTest" >> README.md
+echo "ClassTest" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
