@@ -10,6 +10,10 @@ namespace test
     {
         static void Main(string[] args)
         {
+           
+            Console.WriteLine("Hello World!");
+        }
+        static void test(){
             string ok = Class1.GetStr();
             Console.WriteLine(ok);
             UserInfo info = new UserInfo();
@@ -20,7 +24,6 @@ namespace test
             UserGoup userGoup = new UserGoup();
             userGoup.roleId = "12";
             Console.WriteLine(userGoup.roleId);
-            Console.WriteLine("Hello World!");
         }
     }
 }
