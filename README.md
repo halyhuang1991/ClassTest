@@ -1,4 +1,8 @@
+# 测试项目引用demo
 ```
+mkdir ClassTest
+cd /d ClassTest
+
 dotnet new console -o test
 dotnet new classlib -o test.Common
 dotnet new classlib -o test.Service
