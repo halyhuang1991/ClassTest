@@ -11,7 +11,7 @@
     <!-- <RestoreSources>$(RestoreSources);..\mypack; https://api.nuget.org/v3</RestoreSources> -->
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="newtonsoft.json" Version="12.0.2" />
+    <PackageReference Include="newtonsoft.json" Version="13.0.1" />
     <PackageReference Include="test.models" Version="1.0.0" />
     <!-- <PackageReference Include="test.Models" Version="1.0.0"/> -->
   </ItemGroup>
